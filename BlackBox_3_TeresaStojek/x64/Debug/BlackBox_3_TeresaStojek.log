@@ -1,0 +1,12 @@
+﻿  BlackBox_3_TeresaStojek.cpp
+C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek.cpp(65,34): warning C4309: 'return': truncation of constant value
+C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek.cpp(66,45): warning C4309: 'return': truncation of constant value
+C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek.cpp(67,51): warning C4309: 'return': truncation of constant value
+C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek.cpp(68,45): warning C4309: 'return': truncation of constant value
+C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek.cpp(69,45): warning C4309: 'return': truncation of constant value
+C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek.cpp(70,45): warning C4309: 'return': truncation of constant value
+C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek.cpp(355,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek.cpp(540,38): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek.cpp(540,73): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek\BlackBox_3_TeresaStojek.cpp(235): warning C4715: 'StrzelLaserem': not all control paths return a value
+  BlackBox_3_TeresaStojek.vcxproj -> C:\Users\teres\OneDrive\Pulpit\STUDIA\BlackBox_3_TeresaStojek\x64\Debug\BlackBox_3_TeresaStojek.exe
